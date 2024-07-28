@@ -1,5 +1,5 @@
 # Car Smart
-An AI powered app helping to troubleshoot your car
+An AI powered app helping you troubleshoot car issues
 
 ## Table of Contents
 
