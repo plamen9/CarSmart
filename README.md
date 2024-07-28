@@ -39,7 +39,9 @@ Import the application `.sql` export file in APEX.
 
 Read the guide on how to [Import an Application in Oracle APEX](https://docs.oracle.com/en/database/oracle/apex/24.1/htmdb/importing-export-files.html)
 
+During the installation, you will be prompted for installing `Supporting Object`. Agree and proceed with this part too.
 After installation is complete, make sure to configure the Credentials for accessing Claude 3's API.
+
 ![image](https://github.com/user-attachments/assets/e6f35479-cf6e-47f9-9152-bb0bacfc208c)
 
 ## License
