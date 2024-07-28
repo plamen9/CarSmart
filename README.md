@@ -35,7 +35,9 @@ The initial version uses Anthropic Claude 3 (Haiku) as a LLM, supporting multimo
 If you install it on your Oracle APEX instance, make sure to update the API Key (which is not included in the installation file).
 
 ## Deployment
-Import the APEX application export in APEX. [Import an Application in Oracle APEX]([https://minddrive.onrender.com](https://docs.oracle.com/en/database/oracle/apex/24.1/htmdb/importing-export-files.html))
+Import the application `.sql` export file in APEX. 
+
+Read the guide on how to [Import an Application in Oracle APEX](https://docs.oracle.com/en/database/oracle/apex/24.1/htmdb/importing-export-files.html)
 
 ## License
 
